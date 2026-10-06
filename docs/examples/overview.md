@@ -16,8 +16,8 @@ kept up to date with every recipe.
 |---|---|
 | Validate the stack end-to-end on the smallest setup | [SD3.5 FlowGRPO quickstart](../start/flowgrpo_quickstart.md) — 3 GPUs, LoRA, OCR reward |
 | Production image RL on a strong open model | [Qwen-Image FlowGRPO (LoRA, V1)](https://github.com/verl-project/verl-omni/blob/main/examples/flowgrpo_trainer/qwen_image/README.md) — see the [Qwen-Image notes](../start/models.md#qwen-image) |
-| Compare policy-gradient variants on the same task | [FlowDPPO](flowdppo_trainer.md), [GRPO-Guard](grpoguard_trainer.md), [MixGRPO](mixgrpo_trainer.md), [FlowGRPO](flowgrpo_trainer.md) |
-| Offline or non-policy-gradient objectives | [Diffusion-DPO](dpo_trainer.md), [DiffusionNFT](diffusionnft_trainer.md), [DanceGRPO](dancegrpo_trainer.md) |
+| Compare policy-gradient variants on the same task | [FlowDPPO](flowdppo_trainer.md), [GRPO-Guard](grpoguard_trainer.md), [MixGRPO](mixgrpo_trainer.md), [DanceGRPO](dancegrpo_trainer.md), [FlowGRPO](flowgrpo_trainer.md) |
+| Offline or non-policy-gradient objectives | [Diffusion-DPO](dpo_trainer.md), [DiffusionNFT](diffusionnft_trainer.md) |
 | Latent-reward / reward-model research | [SD3.5 with DiNa latent reward model](flowgrpo_trainer_sd35_drm.md) |
 
 ## Image editing (i2i)

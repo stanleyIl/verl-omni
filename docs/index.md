@@ -74,6 +74,10 @@ algo/deterministic_post_training.md
 algo/performance.md
 ```
 
+<!-- Examples grouped by task: overview router, image-generation algorithm
+     pages, per-model image pages, video/audio, unified multimodal,
+     omni-modality. The check_example_docs_symlinks sanity test requires every
+     symlinked example page to stay inside this single toctree. -->
 ```{toctree}
 :maxdepth: 2
 :caption: Examples
